@@ -1,0 +1,14 @@
+
+1) In how many ways, we can insert CSS into an HTML document?
+Ans) There are mainly three simple ways to insert CSS and HTML document. They are
+       1.Internal Style Sheet
+       2.External Style Sheet
+       3.Inline Style Sheet
+  Internal Style Sheet
+                   An internal style sheet is usefull when a single HTML document has its unique styles.With this, CSS syntax should be included in the <style> element. The <style> element should only be enclosed inside the <head> element.
+
+  External  Style Sheet
+                     An External style sheetbcan be very usefulwhen multiple HTML pages have the same styles.An external style sheet file mustvbe saved with a .css file extension like "style.css" Then we need to use the <link> element to include that file into the HTML page.
+
+  Inline Style Sheet
+                   These are usedvfor styling a single element. It is done by using the style attribute. Its value contains CSS declarations.
